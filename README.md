@@ -1,0 +1,1 @@
+# OrangePI_GetCPUTemperature
